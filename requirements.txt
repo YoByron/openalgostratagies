@@ -1,0 +1,53 @@
+# Core Dependencies
+python>=3.10
+
+# OpenAlgo Integration
+openalgo
+requests>=2.31.0
+websocket-client>=1.6.0
+
+# Data Processing
+pandas>=2.1.0
+numpy>=1.24.0
+polars>=0.19.0
+
+# Options Analytics
+py-vollib>=1.0.1
+mibian>=0.1.3
+scipy>=1.11.0
+
+# Strategy & Backtesting
+vectorbt>=0.26.0
+bt>=1.0.0
+
+# Risk Management
+riskfolio-lib>=5.0.0
+pypfopt>=1.5.5
+quantstats>=0.0.62
+
+# Technical Analysis
+ta-lib>=0.4.28
+pandas-ta>=0.3.14
+
+# Machine Learning (Optional)
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# Database
+redis>=5.0.0
+sqlalchemy>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+loguru>=0.7.0
+pyyaml>=6.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# API Framework
+fastapi>=0.104.0
+uvicorn>=0.24.0
